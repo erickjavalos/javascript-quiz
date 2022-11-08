@@ -6,5 +6,5 @@
 ## Expected Result
 <img src="https://github.com/eavalo14/javascript-quiz/blob/main/assets/images/webpage.png" alt="Alt text"     title="Optional title">
 
-## Deployded link
+## Deployed link
 <p>https://eavalo14.github.io/javascript-quiz/</p>
